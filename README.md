@@ -25,4 +25,4 @@ FLASK JOBLIB PANDAS SCIKIT_LEARN
   * Run the File till the last
   * open the main_app.py file
   * Run the below command in the terminal
-     ~flask main_app.py
+     ~python main_app.py run
