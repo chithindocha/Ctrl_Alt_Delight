@@ -21,8 +21,16 @@ FLASK JOBLIB PANDAS SCIKIT_LEARN
 1.	Acquire the files from provided GITHUB link.
 2.	Install the required libraries using pip/pip3
 3.	To run the application
-  * Open Multinomial[1].ipynb file
-  * Run the File till the last
-  * open the main_app.py file
-  * Run the below command in the terminal
-     ~python main_app.py run
+   * Open Multinomial[1].ipynb file
+   * Run the File till the last
+   * open the main_app.py file
+   * Run the below command in the terminal
+     ~~~
+     !python main_app.py run
+     ~~~  
+4. In the Website:
+   * Navigate towards the Recipe section on the navigation Bar
+   * In the Recipe Section therw will be 2 sections:
+     * Enter the Ingredients to find the suggested Recipe with their details
+     * Enter the Recipe name to find the specific recipes with their details
+    
